@@ -15,7 +15,7 @@
 
 > Users should have the ability to see their portfolio
 
-git clone https://github.com/silpathomas/django_rest_framework_map.git
+git clone https://github.com/silpathomas/-stock_market_tracking_system.git
 
 1.Create a virtual environment using following command
 
